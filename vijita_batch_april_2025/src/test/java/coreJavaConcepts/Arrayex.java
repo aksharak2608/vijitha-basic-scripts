@@ -12,6 +12,10 @@ for(String s:op)
 System.out.println(s);
 
 
+
+
+
+
 int c[][]=new int[3][2];
 c[0][0]=6;
 c[0][1]=3;
