@@ -7,6 +7,8 @@ public class Aparent {
 
 	}
 	
+	
+	
 	public void test()
 	{
 		System.out.println("test");
